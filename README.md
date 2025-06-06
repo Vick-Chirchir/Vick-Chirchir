@@ -5,7 +5,7 @@
 - <b> Site-to-Site IPsec VPN(Packet Tracer)</b>
   - [Site-to-Site IPsec VPN(Packet Tracer)](https://github.com/Vick-Chirchir/Site-to-Site-IPsec-VPN)
 - <b>VTP-Port Security</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [VTP-Port Security](https://github.com/Vick-Chirchir/VTP-Port-Security) 
 - <b>VoIP on the Network</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
