@@ -14,8 +14,8 @@
     - [Static Routes]() 
 - <b>Redistributed Between OSPF & EIGRP</b>
    - [Redistributed Between OSPF & EIGRP]()
-- <b>NAT Raouter</b>
-   - [NAT Raouter]() <b>
+- <b>NAT Router</b>
+   - [NAT Router]() <b>
 - <b>MPLS-L2-3 Switches</b>
    - [MPLS-L2-3 Switches]() 
 - <b>MONITORING VLAN-CCNA</b>
