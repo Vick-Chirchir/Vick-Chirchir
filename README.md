@@ -7,38 +7,37 @@
 - <b>VTP-Port Security</b>
   - [VTP-Port Security](https://github.com/Vick-Chirchir/VTP-Port-Security) 
 - <b>VoIP on the Network</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [VoIP on the Network]()
  - <b>Router as a DHCP Server</b>
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [Router as a DHCP Server]()
  - <b>Static Routes</b>
-    - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+    - [Static Routes]() 
 - <b>Redistributed Between OSPF & EIGRP</b>
-   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+   - [Redistributed Between OSPF & EIGRP]()
 - <b>NAT Raouter</b>
-   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+   - [NAT Raouter]() <b>
 - <b>MPLS-L2-3 Switches</b>
-   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+   - [MPLS-L2-3 Switches]() 
 - <b>MONITORING VLAN-CCNA</b>
-   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+   - [MONITORING VLAN-CCNA]()
 - <b>IPsec Lab</b>
-   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+   - [IPsec Lab]() 
 - <b>GRE Tunnel</b>
-   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+   - [GRE Tunnel]() 
 - <b>Firewall Lab</b>
-   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+   - [Firewall Lab]() 
 - <b>Firewall 3 Zones</b>
-   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+    - [Firewall 3 Zones]() 
 - <b>EIGRP Lab</b>
-   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+   - [EIGRP Lab]() 
 - <b>DHCP Server Lab</b>
-   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+   - [DHCP Server Lab]() 
 - <b>Cell Phone Tower Lab</b>
-   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+   - [Cell Phone Tower Lab]() 
 - <b>Cell Technology-ISP and Cell Tower </b>
-   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+   - [Cell Technology-ISP and Cell Tower]() 
 - <b>OSPF & ACL Lab</b>
-   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+   - [OSPF & ACL Lab]() 
 
    
 
