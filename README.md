@@ -7,19 +7,19 @@
 - <b>VTP-Port Security</b>
   - [VTP-Port Security](https://github.com/Vick-Chirchir/VTP-Port-Security) 
 - <b>VoIP on the Network</b>
-  - [VoIP on the Network]()
+  - [VoIP on the Network](https://github.com/Vick-Chirchir/VoIP-on-the-Network)
  - <b>Router as a DHCP Server</b>
-  - [Router as a DHCP Server]()
+  - [Router as a DHCP Server](https://github.com/Vick-Chirchir/Router-as-a-DHCP-Server)
  - <b>Static Routes</b>
-    - [Static Routes]() 
+    - [Static Routes](https://github.com/Vick-Chirchir/Static-Routes) 
 - <b>Redistributed Between OSPF & EIGRP</b>
-   - [Redistributed Between OSPF & EIGRP]()
+   - [Redistributed Between OSPF & EIGRP](https://github.com/Vick-Chirchir/Redistributed-Between-OSPF-EIGRP)
 - <b>NAT Router</b>
-   - [NAT Router]() <b>
+   - [NAT Router](https://github.com/Vick-Chirchir/NAT-Router) <b>
 - <b>MPLS-L2-3 Switches</b>
-   - [MPLS-L2-3 Switches]() 
+   - [MPLS-L2-3 Switches](https://github.com/Vick-Chirchir/MPLS-L2-3-Switches) 
 - <b>MONITORING VLAN-CCNA</b>
-   - [MONITORING VLAN-CCNA]()
+   - [MONITORING VLAN-CCNA](https://github.com/Vick-Chirchir/MONITORING-VLAN-CCNA)
 - <b>IPsec Lab</b>
    - [IPsec Lab]() 
 - <b>GRE Tunnel</b>
