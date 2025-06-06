@@ -4,6 +4,8 @@
 
 - <b> Site-to-Site IPsec VPN(Packet Tracer)</b>
   - [Site-to-Site IPsec VPN(Packet Tracer)](https://github.com/Vick-Chirchir/Site-to-Site-IPsec-VPN)
+- <b>Cell Phone Tower Lab</b>
+   - [Cell Phone Tower Lab](https://github.com/Vick-Chirchir/Cell-Phone-Tower-Lab)
 - <b>VTP-Port Security</b>
   - [VTP-Port Security](https://github.com/Vick-Chirchir/VTP-Port-Security) 
 - <b>VoIP on the Network</b>
@@ -32,8 +34,6 @@
    - [EIGRP Lab](https://github.com/Vick-Chirchir/EIGRP-Lab) 
 - <b>DHCP Server Lab</b>
    - [DHCP Server Lab](https://github.com/Vick-Chirchir/DHCP-Server-Lab) 
-- <b>Cell Phone Tower Lab</b>
-   - [Cell Phone Tower Lab](https://github.com/Vick-Chirchir/Cell-Phone-Tower-Lab) 
 - <b>Cell Technology-ISP and Cell Tower</b>
    - [Cell Technology-ISP and Cell Tower](https://github.com/Vick-Chirchir/Cell-Technology-ISP-and-Cell-Tower) 
 - <b>OSPF & ACL Lab</b>
