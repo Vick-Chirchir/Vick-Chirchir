@@ -39,7 +39,8 @@
 - <b>OSPF & ACL Lab</b>
    - [OSPF & ACL Lab](https://github.com/Vick-Chirchir/OSPF-ACL-Lab) 
 
-   
+<h2>👨‍💻 Database Projects:</h2>
+<h2>👨‍💻 Data Analysis Projects:</h2>
 
 
 <h2>📺 Certifications </h2>
