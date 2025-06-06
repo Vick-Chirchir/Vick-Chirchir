@@ -3,7 +3,7 @@
 <h2>👨‍💻 Network Engineering Projects:</h2>
 
 - <b> Site-to-Site IPsec VPN(Packet Tracer)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Site-to-Site IPsec VPN(Packet Tracer)](https://github.com/Vick-Chirchir/Site-to-Site-IPsec-VPN)
 - <b>VTP-Port Security</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>VoIP on the Network</b>
