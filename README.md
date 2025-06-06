@@ -21,34 +21,35 @@
 - <b>MONITORING VLAN-CCNA</b>
    - [MONITORING VLAN-CCNA](https://github.com/Vick-Chirchir/MONITORING-VLAN-CCNA)
 - <b>IPsec Lab</b>
-   - [IPsec Lab]() 
+   - [IPsec Lab](https://github.com/Vick-Chirchir/IPsec-Lab) 
 - <b>GRE Tunnel</b>
-   - [GRE Tunnel]() 
+   - [GRE Tunnel](https://github.com/Vick-Chirchir/GRE-Tunnel) 
 - <b>Firewall Lab</b>
-   - [Firewall Lab]() 
+   - [Firewall Lab](https://github.com/Vick-Chirchir/Firewall-Lab) 
 - <b>Firewall 3 Zones</b>
-    - [Firewall 3 Zones]() 
+    - [Firewall 3 Zones](https://github.com/Vick-Chirchir/Firewall-3-Zones) 
 - <b>EIGRP Lab</b>
-   - [EIGRP Lab]() 
+   - [EIGRP Lab](https://github.com/Vick-Chirchir/EIGRP-Lab) 
 - <b>DHCP Server Lab</b>
-   - [DHCP Server Lab]() 
+   - [DHCP Server Lab](https://github.com/Vick-Chirchir/DHCP-Server-Lab) 
 - <b>Cell Phone Tower Lab</b>
-   - [Cell Phone Tower Lab]() 
-- <b>Cell Technology-ISP and Cell Tower </b>
-   - [Cell Technology-ISP and Cell Tower]() 
+   - [Cell Phone Tower Lab](https://github.com/Vick-Chirchir/Cell-Phone-Tower-Lab) 
+- <b>Cell Technology-ISP and Cell Tower</b>
+   - [Cell Technology-ISP and Cell Tower](https://github.com/Vick-Chirchir/Cell-Technology-ISP-and-Cell-Tower) 
 - <b>OSPF & ACL Lab</b>
-   - [OSPF & ACL Lab]() 
+   - [OSPF & ACL Lab](https://github.com/Vick-Chirchir/OSPF-ACL-Lab) 
 
    
 
 
 <h2>📺 Certifications </h2>
-
+<!--
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+-->
 
 <h2> 🤳 Connect with me:</h2>
 
