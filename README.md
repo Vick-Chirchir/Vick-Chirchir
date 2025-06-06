@@ -1,4 +1,4 @@
-<h1>Hi, I'm Vick! <br/><a href="https://github.com/Vick-Chirchir">Network Engineer</a>, <a href="https://www.linkedin.com/in/victor-chirchir-134326107/">Database Programmer and Data Analyst</a>
+<h1>Hi, I'm Vick! <br/><a href="https://github.com/Vick-Chirchir">Network Engineer</a>, <a>Database Programmer and Data Analyst</a>
 
 <h2>👨‍💻 Network Engineering Projects:</h2>
 
