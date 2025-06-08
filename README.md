@@ -27,11 +27,7 @@
 - <b>Firewall Lab</b>
    - [Firewall Lab](https://github.com/Vick-Chirchir/Firewall-Lab) 
 - <b>Firewall 3 Zones</b>
-    - [Firewall 3 Zones](https://github.com/Vick-Chirchir/Firewall-3-Zones) 
-- <b>EIGRP Lab</b>
-   - [EIGRP Lab](https://github.com/Vick-Chirchir/EIGRP-Lab) 
-- <b>DHCP Server Lab</b>
-   - [DHCP Server Lab](https://github.com/Vick-Chirchir/DHCP-Server-Lab) 
+    - [Firewall 3 Zones](https://github.com/Vick-Chirchir/Firewall-3-Zones)  
 - <b>Cell Technology-ISP and Cell Tower</b>
    - [Cell Technology-ISP and Cell Tower](https://github.com/Vick-Chirchir/Cell-Technology-ISP-and-Cell-Tower) 
 - <b>OSPF & ACL Lab</b>
