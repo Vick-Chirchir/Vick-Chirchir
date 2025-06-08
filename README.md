@@ -12,8 +12,6 @@
   - [VoIP on the Network](https://github.com/Vick-Chirchir/VoIP-on-the-Network)
  - <b>Router as a DHCP Server</b>
   - [Router as a DHCP Server](https://github.com/Vick-Chirchir/Router-as-a-DHCP-Server)
- - <b>Static Routes</b>
-    - [Static Routes](https://github.com/Vick-Chirchir/Static-Routes) 
 - <b>Redistributed Between OSPF & EIGRP</b>
    - [Redistributed Between OSPF & EIGRP](https://github.com/Vick-Chirchir/Redistributed-Between-OSPF-EIGRP)
 - <b>NAT Router</b>
