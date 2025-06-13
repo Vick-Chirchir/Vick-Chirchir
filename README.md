@@ -36,7 +36,7 @@
 <h2>👨‍💻 Active Directory Project:</h2>
 
 - <b> Active Directory Home Lab(Virtualbox)</b>
-  - [Active Directory Home Lab](https://github.com/Vick-Chirchir/Site-to-Site-IPsec-VPN)
+  - [Active Directory Home Lab](https://github.com/Vick-Chirchir/Active-Directory-Home-Lab)
 <h2>👨‍💻 Database Projects:</h2>
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
