@@ -20,8 +20,6 @@
    - [MPLS-L2-3 Switches](https://github.com/Vick-Chirchir/MPLS-L2-3-Switches) 
 - <b>MONITORING VLAN-CCNA</b>
    - [MONITORING VLAN-CCNA](https://github.com/Vick-Chirchir/MONITORING-VLAN-CCNA)
-- <b>IPsec Lab</b>
-   - [IPsec Lab](https://github.com/Vick-Chirchir/IPsec-Lab) 
 - <b>GRE Tunnel</b>
    - [GRE Tunnel](https://github.com/Vick-Chirchir/GRE-Tunnel) 
 - <b>Firewall Lab</b>
