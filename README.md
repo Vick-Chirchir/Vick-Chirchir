@@ -22,9 +22,6 @@
    - [MONITORING VLAN-CCNA](https://github.com/Vick-Chirchir/MONITORING-VLAN-CCNA)
 - <b>Firewall 3 Zones</b>
     - [Firewall 3 Zones](https://github.com/Vick-Chirchir/Firewall-3-Zones)  
-- <b>Cell Technology-ISP and Cell Tower</b>
-   - [Cell Technology-ISP and Cell Tower](https://github.com/Vick-Chirchir/Cell-Technology-ISP-and-Cell-Tower)
-   - [OSPF & ACL Lab]
 - <b>Routing on the ASA-Static Routes </b>
    - [Routing on the ASA-Static Routes]
  - <b>Routing on the ASA-RIPv2 </b>
